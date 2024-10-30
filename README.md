@@ -56,6 +56,7 @@ Experienced technology leader specializing in AI/ML solutions with 3+ years of e
 - automacrew.agentsInfinite (Private)
 - automalite.agentsInfinite (Private)
 - automa.agentsInfinite (Private)
+- vectorkrew.agentsInfinite (Private)
 - readmeContracts (Public)
 
 ## 📫 Connect With Me
