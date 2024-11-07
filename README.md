@@ -1,5 +1,4 @@
-**Models used:** Microsoft Azure ML Models, Time Series Forecasting Models, Regression and Classification Algorithms. Fine-tuning small models under the supervision of large models.
-
+**Models used:** Microsoft Azure ML Models, Time Series Forecasting Models, Regression and Classification Algorithms.
 **Data Visualization:** Seamless integration with Microsoft Power BI for advanced predictive insights and trend analysis.
 
 # Vamsi Kethu
