@@ -4,6 +4,8 @@
 
 **Data Visualization:** Seamless integration with Microsoft Power BI for advanced predictive insights and trend analysis.
 ---
+[![Vamsi Kethu's LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu?trk=profile-badge)
+
 # Vamsi Kethu
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
