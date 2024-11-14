@@ -13,17 +13,29 @@ Experienced technology leader with 16+ years in IT and automation, specializing 
 
 I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create **human-first AI** experiences.
 
-**Key Expertise**:
-- 6+ years in **Artificial Intelligence** and **Machine Learning** model development, 3+ years in **Generative AI**
-- Seamless integration of open-source projects with enterprise-grade platforms
-- Extensive experience in **Commercial**, **Federal**, and **State government** projects
-- Implementation of **Microsoft's Responsible AI principles**: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
+## Key Expertise:
 
-**Compliance Proficiency**: Fair Credit Reporting Act (**FCRA**), **HIPAA**, **PII** (Personally Identifiable Information), **Intellectual Property**, **PCI** (Payment Card Industry), **ADA** (Americans with Disabilities Act), **KYC** (Know Your Customer), **AML** (Anti-Money Laundering), **AI Security**, **OWASP guidelines**, Collaborating with **External Audits** and **Microsoft Responsible AI Principles and Standard**.
+- **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
+- AI Strategy & Governance - Wharton Online.
+- Integrating open-source projects with AWS, Azure, and GCP.
+- Extensive experience in Commercial, Federal, and State government projects, including Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, and interstate investigation systems.
+- Expertise in Computer Vision services, AFS Vision, GIS, Esri, PolarisWeb, and ArcGIS.
+- Experience in Health Care, Life Insurance, Consumer & Retail Billing, Fraud detection, Customer Churn, loan defaulter prediction, ACH, NACHA, Credit Card Processing and Banking domains.
+- Implementation of Microsoft's Responsible AI principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
+- Vast data analytics experience using Microsoft AutoML, Knime, RapidMiner, DataRobot, IBM Cognos, OFS, Tableau, and MS SQL.
+- Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Certified. 13 TOSCA Certifications.
 
-Committed to **ethical AI** practices and empowering visionary leaders in product development and commercial finance sectors.
+## Compliance Proficiency:
+HIPAA, ADA, PII (Personally Identifiable Information), IP (Intellectual Property), PCI (Payment Card Industry), FCRA (Fair Credit Reporting Act), GBLA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), BSA (Bank Secrecy Act), KYC (Know Your Customer), AML (Anti-Money Laundering), GDPR (General Data Protection Regulation), Data Privacy, Data Security, AI Security, OWASP guidelines, external audits, and Microsoft Responsible AI Principles and Standards.
 
-Passionate about driving digital transformation while adhering to highest standards of security, privacy, and regulatory compliance. Skilled in collaborating with external auditors and implementing robust safeguards across all projects.
+Committed to **ethical AI practices** and empowering teams with vision. Passionate about driving digital transformation while maintaining top security, privacy, and regulatory standards. Skilled in collaborating with external auditors and clients while implementing robust safeguards.
+
+## Additional Experience:
+
+- Over 20 years in IT, demonstrating continuous learning, adaptability, and leadership in various capacities.
+- Lifelong learner with hands-on learning.
+
+I thrive on challenges and am keen to connect with like-minded professionals and leaders aiming to harness AI and ML innovations to redefine industries. 
 
 ### 🎓 Education & Certifications
 - Master of Science in Computer Information Systems
@@ -70,7 +82,7 @@ Implementation of cutting-edge generative models including large language models
 
 #### 🎨 [PromptAlchemy-AI](https://poe.com/PromptAlchemy)
 A Generative AI Assistant is developed to seamlessly transform textual descriptions into detailed prompts for image generation AIs and well-structured articles, breaking creative blocks. This tool enhances the creative process by providing tailored, AI-generated prompts and content structures.
-#### 🖼️ [Logo-Alchemy-AI](https://poe.com/Logo-Alchemy-AI)
+#### 🖼️ [LogoAlchemy-AI](https://poe.com/Logo-Alchemy-AI)
 A Generative AI assistant specialized in generating visually engaging artistic and cinematic quality company logos based on textual descriptions provided by users. Logo-Alchemy-AI's primary goal is to create intuitive and meaningful visual representations that accurately capture the essence of the user's input, revolutionizing the logo design process.
 
 ### 🎯 AI and Machine Learning Solutions
