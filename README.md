@@ -11,22 +11,23 @@
 ## AI/ML Architect | Automation Expert | AI Strategy & Transformation Leader
 
 # Professional Profile
-
-Experienced technology leader with 16+ years in IT and automation, specializing in **Artificial Intelligence** and **Machine Learning solutions**.
+Experienced IT professional with 16+ years in **hands-on IT and automation**, including Leadership roles, specializing in **Artificial Intelligence**, **Machine Learning solutions** and **Generative AI** solutions. Proven track record in Health & Life Insurance, Retail & Commercial Billing, Finance, Banking, Ag Credit & Co-Ops, domains across startups, SMBs, large corporations, enterprises, and governmental sectors.
 
 I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create **human-first AI** experiences.
 
 ## Key Expertise:
 
 - **Over 6 years of hands-on experience in Artificial Intelligence and Machine Learning**, plus **3+ years in Generative AI**.
-- AI Strategy & Governance - Wharton Online.
+  
+- AI Strategy & Governance, AI for Business - Wharton Online.
+- Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
+- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
+- Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Admin & Reports Certified. 13 Tricentis TOSCA Certifications.
+- Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
+- Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
+- Experience: Federal, and State projects (Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, interstate investigation).
 - Integrating open-source projects with AWS, Azure, and GCP.
-- Extensive experience in Commercial, Federal, and State government projects, including Justice, Law Enforcement, Fingerprinting, Facial Recognition, EMS, and interstate investigation systems.
-- Expertise in Computer Vision services, AFS Vision, GIS, Esri, PolarisWeb, and ArcGIS.
-- Experience in Health Care, Life Insurance, Consumer & Retail Billing, Fraud detection, Customer Churn, loan defaulter prediction, ACH, NACHA, Credit Card Processing and Banking domains.
-- Implementation of Microsoft's Responsible AI principles: fairness, reliability and safety, privacy and security, inclusiveness, transparency, and accountability.
-- Vast data analytics experience using Microsoft AutoML, Knime, RapidMiner, DataRobot, IBM Cognos, OFS, Tableau, and MS SQL.
-- Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Certified. 13 TOSCA Certifications.
+
 
 ## Compliance Proficiency:
 HIPAA, ADA, PII (Personally Identifiable Information), IP (Intellectual Property), PCI (Payment Card Industry), FCRA (Fair Credit Reporting Act), GBLA (Gramm-Leach-Bliley Act), SOX (Sarbanes-Oxley Act), BSA (Bank Secrecy Act), KYC (Know Your Customer), AML (Anti-Money Laundering), GDPR (General Data Protection Regulation), Data Privacy, Data Security, AI Security, OWASP guidelines, external audits, and Microsoft Responsible AI Principles and Standards.
@@ -84,16 +85,17 @@ Production-ready End-to-end AI solutions spanning neural networks, computer visi
 Implementation of cutting-edge generative models including large language models, diffusion models, and transformers. Features practical applications in text generation, image synthesis, and conversational AI.
 
 #### 🎨 [PromptAlchemy-AI](https://poe.com/PromptAlchemy)
-A Generative AI Assistant is developed to seamlessly transform textual descriptions into detailed prompts for image generation AIs and well-structured articles, breaking creative blocks. This tool enhances the creative process by providing tailored, AI-generated prompts and content structures.
+An AI assistant transforming textual descriptions into detailed prompts for image generation AIs and well-structured articles, breaking creative blocks and enhancing the creative process.
+
 #### 🖼️ [LogoAlchemy-AI](https://poe.com/Logo-Alchemy-AI)
-A Generative AI assistant specialized in generating visually engaging artistic and cinematic quality company logos based on textual descriptions provided by users. Logo-Alchemy-AI's primary goal is to create intuitive and meaningful visual representations that accurately capture the essence of the user's input, revolutionizing the logo design process.
+A Generative AI assistant creating visually engaging, cinematic-quality company logos from user-provided descriptions, revolutionizing the logo design process by capturing the essence of the input.
 
 ### 🎯 AI and Machine Learning Solutions
 
 **Objective:** Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
 
 **Key Responsibilities:**
-- Evaluate and benchmark Generative AI models against industry-specific metrics (Accuracy, Fluency, Coherence, Similarity)
+- Evaluate and benchmark Generative AI models against industry-specific metrics such as accuracy (measured by precision, recall, F1 score, MAE, and MSE), fluency (measured by perplexity, BLEU, and METEOR), coherence (measured by coherence score, readability scores, and topic consistency), similarity (measured by cosine similarity, Jaccard similarity, edit distance, and SSIM), and relevance (measured by contextual appropriateness and domain-specific applicability), which are tailored to the unique requirements of each sector.
 - Design and create bespoke Generative AI automation solutions tailored to client use cases
 - Implement multimodal AI applications including Voice AI, Text-to-Speech, and Speech-to-Text
 - Develop AI-powered Bots and Virtual Assistants to streamline customer interactions
