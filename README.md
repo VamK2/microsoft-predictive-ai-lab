@@ -5,6 +5,7 @@
 **Data Visualization:** Seamless integration with Microsoft Power BI for advanced predictive insights and trend analysis.
 
 ---
+
 [![Vamsi Kethu's LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Vamsi%20Kethu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsikethu?trk=profile-badge)
 
 # Vamsi Kethu
@@ -21,7 +22,7 @@ I bridge **Open-Source innovation with Microsoft Azure AI platforms** to create 
   
 - AI Strategy & Governance, AI for Business - Wharton Online.
 - Implementing Microsoft's Responsible AI principles: fairness, reliability, safety, privacy, security, inclusiveness, transparency, and accountability.
-- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, 
+- Vast data analytics experience using Python, TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers. Microsoft AutoML, DataRobot, OFS, Tableau, MS SQL, M365 Copilot. 
 - Microsoft Azure AI certified with over 245 badges and 57+ trophies. IBM Cognos Admin & Reports Certified. 13 Tricentis TOSCA Certifications.
 - Expertise: Computer Vision, AFS Vision, GIS, Esri, PolarisWeb, ArcGIS.
 - Skills: AML, Fraud Detection, Churn & Loan Default Prediction, ACH/NACHA, Credit Card Processing.
@@ -51,9 +52,9 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 
 ### 💻 Technical Expertise
 - **AI/ML:** Gen AI, AI MultiAgents, AiBots, Deep Learning, TinyML
-- **Cloud & Tools:** Microsoft Azure OpenAI, Azure IoT, Azure DevOps
+- **Cloud & Tools:** Microsoft Azure OpenAI, Microsfot Power Automate, Power Apps Azure, Microsoft Power Bi, Microsoft IoT, Azure DevOps
 - **Development:** Python, C#, .NET Framework, Selenium, RestSharp API
-- **Platforms:** Power Platform, Copilot, ChatGPT
+- **Platforms:** Power Platform, Power Apps, Power BI, Microsoft Copilot Studio, M365 Copilot, Poe.
 - **Specialties:** Computer Vision, NLP, RPA, QA Automation
 - **Data:** Data Science, Data Analytics, Predictive Modeling
 - **Business:** Financial Analysis, Market Research, Strategic Planning
@@ -95,12 +96,12 @@ A Generative AI assistant creating visually engaging, cinematic-quality company 
 **Objective:** Develop and implement cutting-edge Generative AI solutions to enhance business processes and user experiences across various industries.
 
 **Key Responsibilities:**
-- Evaluate and benchmark Generative AI models against industry-specific metrics such as accuracy (measured by precision, recall, F1 score, MAE, and MSE), fluency (measured by perplexity, BLEU, and METEOR), coherence (measured by coherence score, readability scores, and topic consistency), similarity (measured by cosine similarity, Jaccard similarity, edit distance, and SSIM), and relevance (measured by contextual appropriateness and domain-specific applicability), which are tailored to the unique requirements of each sector.
-- Design and create bespoke Generative AI automation solutions tailored to client use cases
-- Implement multimodal AI applications including Voice AI, Text-to-Speech, and Speech-to-Text
-- Develop AI-powered Bots and Virtual Assistants to streamline customer interactions
-- Integrate Generative AI capabilities into existing automation frameworks
-- Collaborate with SMB and SME leadership teams in product development and manufacturing sectors
+- **Evaluate and benchmark Generative AI models** against industry-specific metrics such as **accuracy** (measured by **precision**, **recall**, **F1 score**, **MAE**, and **MSE**), **fluency** (measured by **perplexity**, **BLEU**, and **METEOR**), **coherence** (measured by **coherence score**, **readability scores**, and **topic consistency**), **similarity** (measured by **cosine similarity**, **Jaccard similarity**, **edit distance**, and **SSIM**), and **relevance** (measured by **contextual appropriateness** and **domain-specific applicability**), which are tailored to the unique requirements of each sector.
+- **Design and create bespoke Generative AI automation solutions** tailored to client use cases
+- **Implement multimodal AI applications** including **Voice AI**, **Text-to-Speech**, and **Speech-to-Text**
+- **Develop AI-powered Bots** and **Virtual Assistants** to streamline customer interactions
+- **Integrate Generative AI capabilities** into existing automation frameworks
+- **Collaborate with SMB and SME leadership teams** in product development and manufacturing sectors
 
 **Achievements:**
 - Successfully delivered human-centric AI solutions that optimized brand, employee, and customer experiences
