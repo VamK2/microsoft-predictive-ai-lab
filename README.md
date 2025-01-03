@@ -50,7 +50,8 @@ I thrive on challenges and am keen to connect with like-minded professionals and
 - Management Essentials - Harvard Business School
 - AI Strategy and Governance - Wharton Business School
 - Microsoft Certified: Azure AI Engineer Associate
-- Microsoft ![image](https://github.com/user-attachments/assets/ba5aac66-c163-41b9-a3e0-5626f4b79531)
+- Microsoft Certified: Azure AI Engineer Associate (Microsoft AI-102)
+-  ![image](https://github.com/user-attachments/assets/ba5aac66-c163-41b9-a3e0-5626f4b79531)
 
 
 ### 💻 Technical Expertise
